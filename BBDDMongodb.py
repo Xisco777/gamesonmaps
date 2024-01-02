@@ -18,6 +18,7 @@ class DatabaseManager:
     
     def obtener_informacion_parcela(self, nombre_parcela, nombre_ciudad):  
         #print(nombre_parcela, nombre_ciudad)
+        #print(nombre_parcela, nombre_ciudad)
         campos=self.db_client.parcelas.find_one({"nombre_parcela": nombre_parcela,"nombre_ciudad": nombre_ciudad})
         result = campos.get("precio"),campos.get("tamano"),campos.get("numeroplantaciones")
         return result
