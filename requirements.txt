@@ -1,0 +1,16 @@
+fastapi
+pymongo
+asyncio
+random
+time
+pydantic
+python-jose
+passlib
+datetime
+json
+functools
+shapely
+pyproj
+python-multipart
+threading
+uvicorn

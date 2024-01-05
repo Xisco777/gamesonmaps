@@ -1,0 +1,299 @@
+{
+  "id": {"$numberInt": "1"},
+  "nombre": "Utiel",
+  "poblacion": {"$numberInt": "12732"},
+  "coordenadas_x": {"$numberDouble": "39.570514"},
+  "coordenadas_y": {"$numberDouble": "-1.204816"},
+  "idioma_principal": "Español",
+  "indice_productos": "Vino,Almendros",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "La agricultura y la viticultura son sectores importantes en la región, con viñedos que producen variedades de uva como la Bobal, muy característica de la zona.",
+  "imagenurl": "http://localhost:8083/Utiel.png"
+}
+
+{
+  "id": {"$numberInt": "2"},
+  "nombre": "Novelda",
+  "poblacion": {"$numberInt": "26758"},
+  "coordenadas_x": {"$numberDouble": "38.385368"},
+  "coordenadas_y": {"$numberDouble": "-0.767657"},
+  "idioma_principal": "Español",
+  "indice_productos": "Uva",
+  "radio": {"$numberInt": "12000"},
+  "descripcion": "Novelda es conocida por sus viñedos que producen uvas de alta calidad, especialmente la variedad Monastrell.",
+  "imagenurl": "http://localhost:8083/Novelda.png"
+}
+
+{
+  "id": {"$numberInt": "3"},
+  "nombre": "Jumilla",
+  "poblacion": {"$numberInt": "25607"},
+  "coordenadas_x": {"$numberDouble": "38.479518"},
+  "coordenadas_y": {"$numberDouble": "-1.325081"},
+  "idioma_principal": "Español",
+  "indice_productos": "Vino,Uva,Almendros",
+  "radio": {"$numberInt": "15000"},
+  "descripcion": "Jumilla es famosa por sus vinos, con viñedos que producen uvas de excelente calidad, así como por sus plantaciones de almendros.",
+  "imagenurl": "http://localhost:8083/Jumilla.png"
+}
+
+{
+  "id": {"$numberInt": "4"},
+  "nombre": "Baeza",
+  "poblacion": {"$numberInt": "16145"},
+  "coordenadas_x": {"$numberDouble": "37.992938"},
+  "coordenadas_y": {"$numberDouble": "-3.468091"},
+  "idioma_principal": "Español",
+  "indice_productos": "Olivos",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Baeza es conocida por la producción de aceite de oliva de alta calidad, con olivares que se extienden por toda la región.",
+  "imagenurl": "http://localhost:8083/Baeza.png"
+}
+
+{
+  "id": {"$numberInt": "5"},
+  "nombre": "Ulldecona",
+  "poblacion": {"$numberInt": "6030"},
+  "coordenadas_x": {"$numberDouble": "40.582458"},
+  "coordenadas_y": {"$numberDouble": "0.470865"},
+  "idioma_principal": "Español",
+  "indice_productos": "Olivos,Almendros",
+  "radio": {"$numberInt": "8000"},
+  "descripcion": "Ulldecona es conocida por la producción de aceite de oliva y por sus extensos cultivos de almendros.",
+  "imagenurl": "http://localhost:8083/Ulldecona.png"
+}
+
+{
+  "id": {"$numberInt": "6"},
+  "nombre": "La Roda",
+  "poblacion": {"$numberInt": "16755"},
+  "coordenadas_x": {"$numberDouble": "39.215660"},
+  "coordenadas_y": {"$numberDouble": "-2.146309"},
+  "idioma_principal": "Español",
+  "indice_productos": "Vino,Trigo,Azafran",
+  "radio": {"$numberInt": "12000"},
+  "descripcion": "La Roda es famosa por la elaboración de los deliciosos pastelitos conocidos como Miguelitos.",
+  "imagenurl": "http://localhost:8083/LaRoda.png"
+}
+
+{
+  "id": {"$numberInt": "7"},
+  "nombre": "Tazacorte",
+  "poblacion": {"$numberInt": "5561"},
+  "coordenadas_x": {"$numberDouble": "28.646608"},
+  "coordenadas_y": {"$numberDouble": "-17.938252"},
+  "idioma_principal": "Español",
+  "indice_productos": "Platanos",
+  "radio": {"$numberInt": "6000"},
+  "descripcion": "Tazacorte es conocida por sus plantaciones de plátanos, que prosperan en el clima subtropical de la región.",
+  "imagenurl": "http://localhost:8083/Tazacorte.png"
+}
+
+{
+  "id": {"$numberInt": "8"},
+  "nombre": "Calahorra",
+  "poblacion": {"$numberInt": "24711"},
+  "coordenadas_x": {"$numberDouble": "42.308697"},
+  "coordenadas_y": {"$numberDouble": "-1.965698"},
+  "idioma_principal": "Español",
+  "indice_productos": "Pimientos,Cebollas",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Calahorra es famosa por la producción de pimientos del Piquillo, una variedad muy apreciada en la gastronomía española.",
+  "imagenurl": "http://localhost:8083/Calahorra.png"
+}
+
+{
+  "id": {"$numberInt": "9"},
+  "nombre": "Reus",
+  "poblacion": {"$numberInt": "107118"},
+  "coordenadas_x": {"$numberDouble": "41.149608"},
+  "coordenadas_y": {"$numberDouble": "1.106690"},
+  "idioma_principal": "Catalán",
+  "indice_productos": "Patata",
+  "radio": {"$numberInt": "15000"},
+  "descripcion": "Reus es conocida por su producción de patata, que se cultivan en los campos cercanos a la ciudad.",
+  "imagenurl": "http://localhost:8083/Reus.png"
+}
+
+{
+  "id": {"$numberInt": "10"},
+  "nombre": "Tordesillas",
+  "poblacion": {"$numberInt": "9224"},
+  "coordenadas_x": {"$numberDouble": "41.502254"},
+  "coordenadas_y": {"$numberDouble": "-4.983092"},
+  "idioma_principal": "Español",
+  "indice_productos": "Patata,Vino",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Tordesillas es famosa por sus Patatas, un cordero lechal asado que es una delicia culinaria en la región.",
+  "imagenurl": "http://localhost:8083/Tordesillas.png"
+}
+
+{
+  "id": {"$numberInt": "11"},
+  "nombre": "El Ejido",
+  "poblacion": {"$numberInt": "84821"},
+  "coordenadas_x": {"$numberDouble": "36.775428"},
+  "coordenadas_y": {"$numberDouble": "-2.814985"},
+  "idioma_principal": "Español",
+  "indice_productos": "Melon,Sandia,Tomate,Pimiento",
+  "radio": {"$numberInt": "20000"},
+  "descripcion": "El Ejido es conocido por su agricultura intensiva y es uno de los principales productores de hortalizas en España.",
+  "imagenurl": "http://localhost:8083/ElEjido.png"
+}
+
+{
+  "id": {"$numberInt": "12"},
+  "nombre": "Lepe",
+  "poblacion": {"$numberInt": "27165"},
+  "coordenadas_x": {"$numberDouble": "37.261074"},
+  "coordenadas_y": {"$numberDouble": "-7.207130"},
+  "idioma_principal": "Español",
+  "indice_productos": "Fresas,Melocoton",
+  "radio": {"$numberInt": "12000"},
+  "descripcion": "Lepe es conocido por sus campos de fresas y por la pesca de gambas en sus costas.",
+  "imagenurl": "http://localhost:8083/Lepe.png"
+}
+
+{
+  "id": {"$numberInt": "13"},
+  "nombre": "Cieza",
+  "poblacion": {"$numberInt": "35245"},
+  "coordenadas_x": {"$numberDouble": "38.239799"},
+  "coordenadas_y": {"$numberDouble": "-1.423361"},
+  "idioma_principal": "Español",
+  "indice_productos": "Melocoton,Almendros,Melon",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Cieza es conocida por sus cultivos de melocotones y almendros, que florecen espectacularmente en primavera.",
+  "imagenurl": "http://localhost:8083/Cieza.png"
+}
+
+{
+  "id": {"$numberInt": "14"},
+  "nombre": "Mazarron",
+  "poblacion": {"$numberInt": "32580"},
+  "coordenadas_x": {"$numberDouble": "37.599076"},
+  "coordenadas_y": {"$numberDouble": "-1.315995"},
+  "idioma_principal": "Español",
+  "indice_productos": "Tomates,Melocoton",
+  "radio": {"$numberInt": "8000"},
+  "descripcion": "Mazarrón es famoso por sus tomates de gran sabor y las gambas frescas que se pescan en sus aguas.",
+  "imagenurl": "http://localhost:8083/Mazarron.png"
+}
+
+{
+  "id": {"$numberInt": "15"},
+  "nombre": "Burriana",
+  "poblacion": {"$numberInt": "34619"},
+  "coordenadas_x": {"$numberDouble": "39.888995"},
+  "coordenadas_y": {"$numberDouble": "-0.086387"},
+  "idioma_principal": "Español",
+  "indice_productos": "Naranjas,Almendros",
+  "radio": {"$numberInt": "12000"},
+  "descripcion": "Burriana es conocida por sus exquisitas naranjas y los extensos campos de almendros que adornan su paisaje.",
+  "imagenurl": "http://localhost:8083/Burriana.png"
+}
+
+{
+  "id": {"$numberInt": "16"},
+  "nombre": "Carcaixent",
+  "poblacion": {"$numberInt": "20541"},
+  "coordenadas_x": {"$numberDouble": "39.121536"},
+  "coordenadas_y": {"$numberDouble": "-0.466034"},
+  "idioma_principal": "Valenciano",
+  "indice_productos": "Naranjas,Almendros",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Carcaixent es famoso por sus jugosas naranjas y los campos de almendros que se extienden por sus alrededores.",
+  "imagenurl": "http://localhost:8083/Carcaixent.png"
+}
+
+{
+  "id": {"$numberInt": "17"},
+  "nombre": "Caravaca de la Cruz",
+  "poblacion": {"$numberInt": "25068"},
+  "coordenadas_x": {"$numberDouble": "38.102688"},
+  "coordenadas_y": {"$numberDouble": "-1.859745"},
+  "idioma_principal": "Español",
+  "indice_productos": "Limones",
+  "radio": {"$numberInt": "12000"},
+  "descripcion": "Caravaca de la Cruz es conocida por la producción de limones de alta calidad, que son muy apreciados en la región.",
+  "imagenurl": "http://localhost:8083/CaravacaDeLaCruz.png"
+}
+
+{
+  "id": {"$numberInt": "18"},
+  "nombre": "Palencia",
+  "poblacion": {"$numberInt": "78914"},
+  "coordenadas_x": {"$numberDouble": "42.009451"},
+  "coordenadas_y": {"$numberDouble": "-4.529070"},
+  "idioma_principal": "Español",
+  "indice_productos": "Cebada",
+  "radio": {"$numberInt": "15000"},
+  "descripcion": "Palencia es conocida por su producción de cebada de alta calidad, utilizada en la fabricación de cerveza y otros productos alimenticios.",
+  "imagenurl": "http://localhost:8083/Palencia.png"
+}
+
+{
+  "id": {"$numberInt": "19"},
+  "nombre": "Soto del Real",
+  "poblacion": {"$numberInt": "8415"},
+  "coordenadas_x": {"$numberDouble": "40.780766"},
+  "coordenadas_y": {"$numberDouble": "-3.731448"},
+  "idioma_principal": "Español",
+  "indice_productos": "Ciruelas",
+  "radio": {"$numberInt": "8000"},
+  "descripcion": "Soto del Real es famoso por la producción de ciruelas, que se cultivan en los huertos de la región.",
+  "imagenurl": "http://localhost:8083/SotoDelReal.png"
+}
+
+{
+  "id": {"$numberInt": "20"},
+  "nombre": "Girona",
+  "poblacion": {"$numberInt": "101852"},
+  "coordenadas_x": {"$numberDouble": "41.979401"},
+  "coordenadas_y": {"$numberDouble": "2.821426"},
+  "idioma_principal": "Catalán",
+  "indice_productos": "Manzanas",
+  "radio": {"$numberInt": "15000"},
+  "descripcion": "Girona es famosa por la producción de manzanas de alta calidad, que se cultivan en los huertos de la región.",
+  "imagenurl": "http://localhost:8083/Girona.png"
+}
+
+{
+  "id": {"$numberInt": "21"},
+  "nombre": "Tortosa",
+  "poblacion": {"$numberInt": "35071"},
+  "coordenadas_x": {"$numberDouble": "40.813568"},
+  "coordenadas_y": {"$numberDouble": "0.520175"},
+  "idioma_principal": "Catalán",
+  "indice_productos": "Peras",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Tortosa es famosa por la producción de peras de alta calidad, que se cultivan en los huertos de la región.",
+  "imagenurl": "http://localhost:8083/Tortosa.png"
+}
+
+{
+  "id": {"$numberInt": "22"},
+  "nombre": "Baza",
+  "poblacion": {"$numberInt": "21170"},
+  "coordenadas_x": {"$numberDouble": "37.488129"},
+  "coordenadas_y": {"$numberDouble": "-2.767809"},
+  "idioma_principal": "Español",
+  "indice_productos": "Espárragos",
+  "radio": {"$numberInt": "8000"},
+  "descripcion": "Baza es famosa por su producción de espárragos de alta calidad, que se cosechan en la región durante la temporada de primavera.",
+  "imagenurl": "http://localhost:8083/Baza.png"
+}
+
+{
+  "id": {"$numberInt": "23"},
+  "nombre": "Candeleda",
+  "poblacion": {"$numberInt": "5542"},
+  "coordenadas_x": {"$numberDouble": "40.116486"},
+  "coordenadas_y": {"$numberDouble": "-5.243490"},
+  "idioma_principal": "Español",
+  "indice_productos": "Tabaco",
+  "radio": {"$numberInt": "10000"},
+  "descripcion": "Aunque no es común en la región, Candeleda se ha destacado por su producción local de tabaco de alta calidad.",
+  "imagenurl": "http://localhost:8083/Candeleda.png"
+}
+
