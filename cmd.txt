@@ -3,4 +3,4 @@ python control.py inicio
 uvicorn main:app --host 0.0.0.0 --port 8000
 .\certbot.exe certonly --standalone -d gamesonmaps.com
 uvicorn main:app --reload
-p
+uvicorn main:app --host 0.0.0.0 --port 8000 --ssl-keyfile C:\certificates\privkey.pem --ssl-certfile C:\certificates\cert.pem
